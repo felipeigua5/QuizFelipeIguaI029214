@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QuizFelipeIguaI029214</string>
+    <string name="itm_lupa">lupa</string>
+    <string name="itm_compartir">compartir</string>
 </resources>
